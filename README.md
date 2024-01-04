@@ -47,4 +47,4 @@
  You can also use the resistors on the input voltage regulators to adjust the brightness of the lights.
 
 # License
- This project is licensed under the MIT License. See the `LICENSE` file for more details.
+ This project is licensed under the CopyLeftToAnotherPlanet. See the `LICENSE` file for more details.
