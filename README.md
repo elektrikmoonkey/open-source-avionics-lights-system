@@ -1,7 +1,19 @@
 # Open source avionics lights system for experimental aircrafts
-
  This project consists of a pure hardware avionics lights system that includes both hardware list of components and diagram to build DIY on your own risk.
+ 
+# Info
+ This repository contains all the hardware and software files for an open source avionics lights system.
+ The system includes navigation, landing, strobe, and taxi lights for aircraft.
+ The system is based on pure hardware, using a 555 timer chip, and does not require any code.
 
+# Hardware
+ The hardware consists of a circuit board that connects the 555 timer chip with a series of resistors, switches, and LEDs.
+ The circuit diagram and schematic are provided in the `hardware` folder.
+ The circuit can be powered by a 12V battery.
+
+# Software
+ No software is needed, but if you want to modify the logic and timing of the lights, you can connect an Arduino or a Raspberry Pi board.
+ 
 # Here are some steps to follow:
  ## Step 1: Determine the types of lights needed, such as navigation, landing, strobe, and taxi lights, and consider their size, shape, color, brightness, and power consumption.
  - using all in this project, with some extras like, landing light triple switch for blink left then right, Allways Both On, OFf
@@ -30,18 +42,6 @@
 - Physical switches to turn on and off
 - 3-button switch for landing light: Off, always ON, Blink left then right
 
-# Info
- This repository contains all the hardware and software files for an open source avionics lights system.
- The system includes navigation, landing, strobe, and taxi lights for aircraft.
- The system is based on pure hardware, using a 555 timer chip, and does not require any code.
-
-# Hardware
- The hardware consists of a circuit board that connects the 555 timer chip with a series of resistors, switches, and LEDs.
- The circuit diagram and schematic are provided in the `hardware` folder.
- The circuit can be powered by a 12V battery.
-
-# Software
- No software is needed, but if you want to modify the logic and timing of the lights, you can connect an Arduino or a Raspberry Pi board.
 
 # Usage
  To use the system, you need to connect the circuit board to a 12V battery and mount the LEDs on your aircraft.
