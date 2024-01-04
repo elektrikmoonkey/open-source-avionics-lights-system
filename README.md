@@ -1,4 +1,4 @@
-# Open source avionics lights system
+# Open source avionics lights system for experimental aircrafts
 All avionics lights system hardware and software - Navigation, landing, strobe and taxi
 
 This project consists on pure hardware, no code where it makes use of the 
