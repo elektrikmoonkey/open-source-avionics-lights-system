@@ -2,11 +2,11 @@
 
  This project consists of a pure hardware avionics lights system that includes both hardware list of components and diagram to build DIY on your own risk.
 
-# Here are some steps you can follow:
+# Here are some steps to follow:
  Step 1: Determine the types of lights needed, such as navigation, landing, strobe, and taxi lights, and consider their size, shape, color, brightness, and power consumption.
-
- Step 2: Design a hardware circuit to control the lights. Use pure hardware to program the logic and timing of the lights, and choose appropriate sensors, switches, resistors, capacitors, LEDs, and wires for your circuit.
-
+ - using all in this project, with some extras like, landing light triple switch for blink left then right, Allways Both On, OFf
+ Step 2: Design a hardware circuit to control the lights. Use pure hardware or microcontrolers to program the logic and timing of the lights, and choose appropriate sensors, switches, resistors, capacitors, LEDs, and wires for your circuit.
+- pure hardware, will be safer and more smart on energy consumption.
  Step 3: Test and debug your circuit to ensure it works as expected. The hardware should read inputs from sensors and switches, and send outputs to the LEDs.
  - Tested, 2 weeks 24h non stop. All seems good. But use at your own risk. 
 
