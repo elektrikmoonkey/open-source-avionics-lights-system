@@ -1,4 +1,4 @@
-# open-source-avionics-lights-system
+# Open source avionics lights system
 All avionics lights system hardware and software - Navigation, landing, strobe and taxi
 
 This project consists on pure hardware, no code where it makes use of the 
@@ -9,7 +9,7 @@ an open source avionics lights system that includes both hardware and software c
 - Design hardware circuit that will control the lights. You can use a microcontroller, such as Arduino or Raspberry Pi, to program the logic and timing of the lights. You also need to choose the appropriate sensors, switches, resistors, capacitors, LEDs, and wires for your circuit.
 - Hardware reads inputs from the sensors and switches, and send the outputs to the LEDs. You also need to test and debug your code to make sure it works as expected.
 
-# Open source avionics lights system
+# Info
 
 This repository contains all the hardware and software files for an open source avionics lights system. The system includes navigation, landing, strobe, and taxi lights for aircraft. The system is based on pure hardware, using a 555 timer chip, and does not require any code.
 
