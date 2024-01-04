@@ -18,7 +18,8 @@
 - Capacitors: electrolytic
 - Resistors: fixed (330 ohms) for LEDs (may not be necessary if you use an output of under 10V for LEDs)
 - Resistors: adjustable (100k ohms)
-- LEDs: 12V - 10W
+
+## LEDs: 12V - 10W
 - 4x 10W White LEDs (2x Landing Right and 2x Landing Left - wings)
 - 3x 10W White LEDs (Left, Right, Tail)
 - 2x 10W Red LEDs (Right, Taxi)
